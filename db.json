@@ -32,21 +32,6 @@
     },
     {
       "avatar": "",
-      "author": "Abagael Enno",
-      "email": "abagael@aurora.app",
-      "isRead": false,
-      "jobTitle": "Backend developer",
-      "title": "Donec pede justo, fringilla vel",
-      "desc": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. ",
-      "tags": [
-        "Web",
-        "Nodejs",
-        "API"
-      ],
-      "id": 2
-    },
-    {
-      "avatar": "",
       "author": "Amy Dettmering",
       "email": "amy@aurora.app",
       "isRead": false,

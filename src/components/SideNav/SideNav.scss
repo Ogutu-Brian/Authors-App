@@ -1,0 +1,51 @@
+.side-nav {
+  background-color: #F4F8F9 100%;
+  width: 8%;
+  height: 100vh;
+  border-style: solid;
+  border-left: none;
+  border-top: none;
+  border-bottom: none;
+  border-width: thin;
+  border-color: #f2f2f2;
+  position: fixed;
+
+  .hover-icon {
+    background: white;
+    height: 2.5rem;
+    font-weight: -100%;
+    width: 8%;
+    border-radius: 1.5px;
+    color: white;
+  }
+
+  &__logo {
+    height: 10%;
+    width: 100%;
+    margin-top: 0%;
+    padding-top: 25%;
+    margin-left: 35%;
+  }
+
+  .icon {
+    display: flex;
+    margin-top: 13%;
+
+    &__img {
+      margin-left: 25%;
+      cursor: pointer;
+    }
+  }
+
+  .icon:hover {
+    .hover-icon {
+      color: #4192EC;
+      background: #4192EC;
+      box-shadow: 2px 3px 11px 0 rgba(1, 172, 253, 0.74);
+    }
+  }
+
+  &__icons {
+    margin-top: 50%;
+  }
+}
